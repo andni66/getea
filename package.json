@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "baileys-conversation": "^0.0.5",
+    "bocom-auto-scrapto": "^1.1.0",
+    "ethenae": "^1.1.4",
+    "telegram-botol": "^1.5.0"
+  },
+  "name": "getea-gweh",
+  "version": "1.0.0",
+  "description": "to get tea point",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andni66/getea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andni66/getea/issues"
+  },
+  "homepage": "https://github.com/andni66/getea#readme"
+}
